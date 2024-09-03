@@ -160,8 +160,8 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.modular.firebasedb
-    Standalone: com.DefaultCompany.2DProject
+    Android: com.DefaultCompany.modular
+    Standalone: com.DefaultCompany.modular
   buildNumber:
     Bratwurst: 0
     Standalone: 0
