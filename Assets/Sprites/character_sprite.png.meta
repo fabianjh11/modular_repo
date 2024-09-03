@@ -1282,7 +1282,56 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character_sprite_0: 3518819011987557719
+      character_sprite_1: 7473431732234666986
+      character_sprite_10: 2223935169448671762
+      character_sprite_11: -4655248412881514272
+      character_sprite_12: -1455317411855265972
+      character_sprite_13: -1109527199787489211
+      character_sprite_14: -5152562460169018191
+      character_sprite_15: -7012188087339578348
+      character_sprite_16: -6769389928462035765
+      character_sprite_17: 7813242486263482678
+      character_sprite_18: 9212975077799425972
+      character_sprite_19: -3170982296683537143
+      character_sprite_2: 2834545213076970203
+      character_sprite_20: 6316782611861204598
+      character_sprite_21: -8482549137673125379
+      character_sprite_22: -4409636645621795461
+      character_sprite_23: 4483128489144593119
+      character_sprite_24: 1457213045012549676
+      character_sprite_25: 4445246145504123878
+      character_sprite_26: 2272965628731750709
+      character_sprite_27: 1486930477549056982
+      character_sprite_28: -7284383819119111798
+      character_sprite_29: 7998056220998547517
+      character_sprite_3: -5222541947600457995
+      character_sprite_30: -2007286211343729946
+      character_sprite_31: 8579923176037143389
+      character_sprite_32: 8419976634761199093
+      character_sprite_33: -39498679724362054
+      character_sprite_34: -6472826270778746819
+      character_sprite_35: 2347351127570327319
+      character_sprite_36: -4336643694808518216
+      character_sprite_37: -7807993075596782298
+      character_sprite_38: -268789481716170023
+      character_sprite_39: -5172667934531900561
+      character_sprite_4: -5658221204002219057
+      character_sprite_40: 2689255238751234605
+      character_sprite_41: -3778103365715698898
+      character_sprite_42: -8005895047823571982
+      character_sprite_43: -7730612446593236604
+      character_sprite_44: 5514567302340026904
+      character_sprite_45: 8895680462402189342
+      character_sprite_46: -7185092925159476979
+      character_sprite_47: -962916570685784096
+      character_sprite_48: -8788761054312374535
+      character_sprite_5: -1406202484690046513
+      character_sprite_6: 5997706344831293156
+      character_sprite_7: -1213360641925980533
+      character_sprite_8: -4862692619742400807
+      character_sprite_9: -8306519534415767009
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
