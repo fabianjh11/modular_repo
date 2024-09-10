@@ -8,13 +8,6 @@ public class UIManager : MonoBehaviour
     // Start is called before the first frame update
     public GameObject loginUI;
     public GameObject registerUI;
-<<<<<<< Updated upstream
-=======
-    void Start()
-    {
-        
-    }
->>>>>>> Stashed changes
 
     public void LoginScreen()
     {
