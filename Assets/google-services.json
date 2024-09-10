@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049524416724",
+    "project_id": "modular-firebase-e6bf1",
+    "storage_bucket": "modular-firebase-e6bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049524416724:android:3e3011e142a00e12fd4b41",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.modular"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZQvrJSzqZAsal3GKrOtiYw0VxRjlxG18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
